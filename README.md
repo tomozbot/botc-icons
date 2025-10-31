@@ -3,5 +3,5 @@ Icons are available in WEBP, PNG and SVG formats.
 This repository will be kept up to date as new characters release.
 
 - Gnome icon by Xephan_GR
-- Xaan, Bootlegger & Cacklejack icons created/modified by Navean 
+- Xaan, Bootlegger, Cacklejack, & Big Wig icons by Navean 
 - All other icons are copyright to their respective owners
